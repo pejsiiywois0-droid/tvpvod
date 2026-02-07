@@ -1,1 +1,4 @@
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=828000,RESOLUTION=576x324,NAME="320p"
+https://vs2131.vcdn.biz/12efd381b88da2037f7226d06ea3c5e3_megogo/live/hls/b/700/u_sid/0/o/10727001/rsid/f3702f1d-6ba9-4af0-8b9e-298d29d678f8/u_uid/0/u_vod/1/u_device/embed_all/u_devicekey/_embed_web/lip/217.114.34.212*asn/type.live/chunklist-sid6740088271866857972-b700000.m3u8
